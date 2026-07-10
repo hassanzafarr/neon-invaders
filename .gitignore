@@ -1,0 +1,5 @@
+.vercel/
+node_modules/
+_shot.html
+*.log
+.DS_Store
